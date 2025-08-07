@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gauravnsanghvi7/react1/static/css/main.c7d9a27f.css",
+    "main.js": "/gauravnsanghvi7/react1/static/js/main.a569afef.js",
+    "static/js/453.d44e7683.chunk.js": "/gauravnsanghvi7/react1/static/js/453.d44e7683.chunk.js",
+    "static/media/logo.svg": "/gauravnsanghvi7/react1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gauravnsanghvi7/react1/index.html",
+    "main.c7d9a27f.css.map": "/gauravnsanghvi7/react1/static/css/main.c7d9a27f.css.map",
+    "main.a569afef.js.map": "/gauravnsanghvi7/react1/static/js/main.a569afef.js.map",
+    "453.d44e7683.chunk.js.map": "/gauravnsanghvi7/react1/static/js/453.d44e7683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d9a27f.css",
+    "static/js/main.a569afef.js"
+  ]
+}
