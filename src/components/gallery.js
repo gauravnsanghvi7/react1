@@ -38,9 +38,7 @@ function Gallery() {
             style={{borderRadius: '7px', border: '1px solid #e0e0e0'}} />
           <img src="https://via.placeholder.com/100x70" alt="Gallery 2"
             style={{borderRadius: '7px', border: '1px solid #e0e0e0'}} />
-          <img src="https://via.placeholder.com/100x70" alt="Gallery 3"
-            style={{borderRadius: '7px', border: '1px solid #e0e0e0'}} />
-        </div>
+                 </div>
       </div>
     </div>
   );
