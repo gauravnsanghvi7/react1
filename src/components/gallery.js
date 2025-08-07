@@ -19,7 +19,7 @@ function Gallery() {
           marginBottom: '18px',
           color: '#0a2463',
           fontSize: '2rem'
-        }}>Gallery Page</h1>
+        }}>Gallery Pagehdakssdjgcjgjcdjgcc</h1>
         <p style={{
           color: '#495464',
           fontSize: '1.08rem',
